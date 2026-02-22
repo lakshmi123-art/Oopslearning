@@ -52,6 +52,5 @@ reel3.comment("when will they provide scolorship")
 reel3.display_comment()
 reel3.delete_comment()
 
-
 # print(id(reel1))
 # print(id(reel2))

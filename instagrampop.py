@@ -33,6 +33,7 @@ class Instagram:
     def delete_last_comment(self):
         temp_comment=self.comments.pop()
         print("The last comment is deleted ",temp_comment)
+        
 reel1=Instagram("dancing","dancing with friends","John","New York")
 reel1.add_comments("comment1")
 reel1.display_comment()
